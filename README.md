@@ -1,6 +1,6 @@
 # npmdoc-discord.io
 
-#### api documentation for  [discord.io (v2.5.1)](https://github.com/izy521/discord.io#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-discord.io.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-discord.io) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-discord.io.svg)](https://travis-ci.org/npmdoc/node-npmdoc-discord.io)
+#### basic api documentation for  [discord.io (v2.5.1)](https://github.com/izy521/discord.io#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-discord.io.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-discord.io) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-discord.io.svg)](https://travis-ci.org/npmdoc/node-npmdoc-discord.io)
 
 #### JavaScript interface for Discord.
 
@@ -64,7 +64,8 @@
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "typings": "./typings/index.d.ts",
-    "version": "2.5.1"
+    "version": "2.5.1",
+    "bin": {}
 }
 ```
 
